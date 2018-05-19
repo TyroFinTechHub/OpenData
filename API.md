@@ -1,13 +1,13 @@
 
 ### Databases
-* UK Government Open Data https://data.gov.uk/
-* AU GovHack Open Data Hackathon https://www.govhack.org/
-* AU Government Open Data https://data.gov.au/
-* NZ Open Government Partnership National Action Plan 2018-20 https://www.ogp.org.nz/
+* [UK Government Open Data](https://data.gov.uk)
+* [AU GovHack Open Data Hackathon](https://www.govhack.org)
+* [AU Government Open Data](https://data.gov.au)
+* [NZ Open Government Partnership National Action Plan 2018-20](https://www.ogp.org.nz/)
 
 ### Central Banks
  - BIS
- - [Bank of England](https://www.bankofengland.co.uk/boeapps/database/default.asp) and [DataScience Competition(https://www.bankofengland.co.uk/statistics/data-science-competition-2018)
+ - [Bank of England](https://www.bankofengland.co.uk/boeapps/database/default.asp) and [DataScience Competition](https://www.bankofengland.co.uk/statistics/data-science-competition-2018)
 - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
  - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
  - [EU](https://sdw-wsrest.ecb.europa.eu/web/generator/index.html#tabData) - variety of data is available via REST API.
